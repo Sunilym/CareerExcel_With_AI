@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Editor
+.vscode/
+.DS_Store
+
+# Local env / secrets (never commit API keys)
+.env
+*.local
